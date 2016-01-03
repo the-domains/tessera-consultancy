@@ -1,0 +1,28 @@
+name: Tessera Consultancy
+favicon: null
+layout_spectrum: 0.36079030530527234
+typography_spectrum: 0.5657420235220343
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7737466299440712
+  lightness: 0.7576509385835379
+  saturation: 0.656480168690905
+  rhythmicContrast: 0.04985084640793502
+purpose: []
