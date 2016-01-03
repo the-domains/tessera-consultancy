@@ -1,7 +1,7 @@
 name: Tessera Consultancy
 favicon: null
-layout_spectrum: 0.36079030530527234
-typography_spectrum: 0.5657420235220343
+layout_spectrum: 0.21769
+typography_spectrum: 0.19705
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#a58a7d'
     - '#93a8bd'
   brandStrength: 0.5
-  lightness: 0.7576509385835379
-  saturation: 0.656480168690905
+  lightness: 0.5625
+  saturation: 0.6875
   rhythmicContrast: 0.04985084640793502
 purpose: []
